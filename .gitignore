@@ -25,3 +25,16 @@ proguard/
 
 # Log Files
 *.log
+
+#IntelliJ IDEA
+.idea
+*.ipr
+*.iws
+*.iml
+out
+
+#DStore
+.DS_Store
+
+# Local Eclipse settings files
+*.settings
